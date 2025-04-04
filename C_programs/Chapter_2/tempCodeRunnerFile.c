@@ -1,0 +1,1 @@
+int result = (3*x)/y-z+k;
